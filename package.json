@@ -5,6 +5,7 @@
   "private": true,
   "dependencies": {
     "express": "3.x",
-    "async": "0.1.x"
+    "async": "0.1.x",
+    "tenjin": "0.1.1"
   }
 }
